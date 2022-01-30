@@ -1,0 +1,5 @@
+DATA_PATH: /Users/aman.gupta/Documents/self/synap/application/data/training_data/ # PROVIDE ABSOLUTE PATH
+TRAIN_BATCH_SIZE: 2
+VALID_BATCH_SIZE: 1
+TRAIN_WORKERS: 0 # change to 8 or 12 incase of GPU machines
+VALID_WORKERS: 0

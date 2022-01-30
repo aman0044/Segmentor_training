@@ -1,0 +1,7 @@
+ARCH: FPN
+ENCODER: "resnet34"
+ENCODER_WEIGHTS: "imagenet"
+CLASSES: ["coords"]
+ACTIVATION: "sigmoid" # could be None for logits or 'softmax2d' for multiclass segmentation
+DEVICE: "cpu"
+
