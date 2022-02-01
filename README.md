@@ -1,8 +1,4 @@
-# SpineX Application  
-
-
-<img align="centre" src="./assets/main.png" alt="main" width = "720">
-
+# Segmentor Training  
 
 ## Contents
 
